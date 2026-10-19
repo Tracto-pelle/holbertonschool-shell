@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf /tmp/.html
+ls -a /tmp/*.html cp -u 
